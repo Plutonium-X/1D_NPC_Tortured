@@ -27,5 +27,6 @@ v7 - Ajout de la traduction italiano par Ilot (merci!!!)
 v8 - Ajout de la compatibilité avec BG2EE/EET
    - Correction du guerrier convoqué par la baguette (pas celui intégrant le groupe) : on pouvait lui faire les poches
 	 pour récupérer des potions (dont il ne peut de toute façon pas se servir (créature invoquée) et la tête de fléau acide !
+	 He used a two-handed sword, but had no skill points in this weapon.
 	 Il portait un casque n'existant pas : remplacé par une pierre ionique (pour respecter l'esprit "quand invoqué par la baguette il est plus puissant").
    - Correction du guerrier quand il rejoint le groupe : il lui manquait deux points de compétence et 2 points de TAC0.

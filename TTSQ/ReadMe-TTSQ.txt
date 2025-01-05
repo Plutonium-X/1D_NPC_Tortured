@@ -27,5 +27,6 @@ v7 - Added Italian translation by Ilot (thank you!!!)
 v8 - Added compatibility with BG2EE/EET
    - Correction of the warrior summoned by the wand (not the one joining the group): you could pickpocket him to
      get potions (which he can't use anyway (summoned creature)) and the Flail Head (Acid)!
+	 He used a two-handed sword, but had no skill points in this weapon.
 	 He wore a non-existent helmet: replaced by an ionic stone (to respect the "when summoned by the wand it is more powerful" spirit).
    - Correction of the warrior when he joins the group: he was missing two skill points and two thac0 points.

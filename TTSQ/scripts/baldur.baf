@@ -1,0 +1,10 @@
+IF
+  Global("wandsoul","GLOBAL",1)
+  !Exists("baenwuld")  // baenwuld
+  !Global("wandsotire","GLOBAL",1)
+THEN
+  RESPONSE #100
+    CreateCreatureObjectDoor("metbae",Player1,5,0,0)  // metbae
+    PlaySound("CAS_M07")
+    SetGlobal("wandsoul","GLOBAL",0)
+END

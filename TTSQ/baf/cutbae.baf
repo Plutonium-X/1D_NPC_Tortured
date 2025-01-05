@@ -1,0 +1,21 @@
+IF
+  True()
+THEN
+  RESPONSE #100
+    CutSceneId("Ribald")  // 
+    StartCutSceneMode()
+    ActionOverride("baenwuld",DestroySelf())
+    MoveToPointNoInterrupt([209.337])
+    MoveToPointNoInterrupt([712.613])
+    DisplayStringHead(Myself,51610)  //
+    Wait(1)
+    CreateVisualEffectObject("SPFLAST1",Myself)
+    Wait(1)
+    CreateVisualEffectObject("SPPFIRXI",Myself)
+    TakePartyItem("metwaso")
+    DestroyItem("metwaso")  // 
+    Wait(2)
+    CreateCreatureObjectDoor("metbae2",Player1,5,0,0)  // 
+    PlaySound("CAS_M07")
+    EndCutSceneMode()
+END

@@ -1,0 +1,21 @@
+IF
+  InWeaponRange(NearestEnemyOf(Myself))
+  ActionListEmpty()
+THEN
+  RESPONSE #100
+    AttackOneRound(NearestEnemyOf(Myself))
+END
+
+IF
+  HP(Myself,1)
+THEN
+  RESPONSE #100
+    StartDialogue("baenwuld",Player1)
+END
+
+IF
+  OnCreation()
+THEN
+  RESPONSE #100
+    Dialog(Player1)
+END

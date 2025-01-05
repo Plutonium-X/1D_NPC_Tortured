@@ -1,0 +1,9 @@
+IF
+	OnCreation()
+	!Global("TTSQ805","Global",1)
+	AreaCheck("AR0805")
+THEN
+	RESPONSE #100
+		SetGlobal("TTSQ805","Global",1)
+		ActionOverride("Container 1",CreateItem("Metwaso",0,0,0))
+END

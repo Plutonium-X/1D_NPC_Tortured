@@ -1,0 +1,13 @@
+@0    = ~The Tortured Soul Quest - WeiDU~
+@1    = ~Baguette ~
+@2    = ~Baguette d'enchaînement des âmes~
+@3    = ~Les baguettes magiques sont fines et mesurent environ 50 centimètres. Elles sont fabriquées en ivoire, en os ou en bois et portent généralement un objet en métal, cristal ou pierre à leur extrémité. Elles sont fragiles et ont tendance à se briser facilement. Pour cette raison, on les conserve souvent dans des étuis.
+
+Les baguettes magiques possèdent des charges, chaque utilisation coûtant une ou plusieurs charges (en fonction de l'objet). Lorsqu'une baguette magique est à court de charges, elle se consume et est détruite.~
+@4    = ~Ceci est une des puissantes baguettes d'enchaînement des âmes. Elles sont créées par des magiciens puissants pour piéger et asservir l'esprit de leurs ennemis. Cette baguette en particulier a été utilisée pour capturer Baenwuld le Colosse, un puissant guerrier barbare, qui était en mission pour détruire l'enclave du mage.
+
+PARAMETRES :
+
+Spécial : Renferme l'âme de Baenwuld le Colosse
+Durée : Permanente~
+@5    = ~Baenwuld~

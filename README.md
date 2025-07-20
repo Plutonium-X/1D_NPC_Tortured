@@ -7,3 +7,5 @@ Vous pourrez décider de le libérer de son esclavage, mais il y a plusieurs cho
 - C'est un tueur de magicien de niveau 15 avec 19 en force et constitution, 17 en dextérité et charisme.
 - Dans sa version invoquée il a +1 en force (20), est équipé d'une épée à deux mains +4, d'une armure de cuir +3 et d'une pierre ionique CA +1.
 - Dans sa version membre du groupe il est équipé d'une épée à deux mains +2 et d'une armure de cuir +2.
+
+  Note : si vous l'engagez dans le groupe, il n'a pas de protrait. Le mod ne l'a pas prévu ^^.

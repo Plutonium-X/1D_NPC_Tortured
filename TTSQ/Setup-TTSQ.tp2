@@ -30,6 +30,8 @@ LANGUAGE ~French (translation by Fouinto (of the d'Oghmatiques)~ ~french~
          ~TTSQ/Languages/french/setup.tra~
 LANGUAGE ~Italian (translation by Ilot)~ ~italian~
          ~TTSQ/Languages/italian/setup.tra~
+LANGUAGE ~Schinese~ ~schinese~
+         ~TTSQ/Languages/schinese/setup.tra~
 
 BEGIN @0
 
